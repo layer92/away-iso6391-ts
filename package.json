@@ -1,5 +1,5 @@
 {
-  "name": "away-core",
+  "name": "away-iso6391",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -13,14 +13,14 @@
   "prepublish": "tsc",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/layer92/away-core.git"
+    "url": "git+https://github.com/layer92/away-iso6391-ts.git"
   },
   "author": "layer92",
   "license": "0BSD",
   "bugs": {
-    "url": "https://github.com/layer92/away-core/issues"
+    "url": "https://github.com/layer92/away-iso6391-ts/issues"
   },
-  "homepage": "https://github.com/layer92/away-core#readme",
+  "homepage": "https://github.com/layer92/away-iso6391-ts#readme",
   "dependencies": {
     "@types/node": "^20.8.6",
     "typescript": "^5.2.2"
